@@ -1,7 +1,7 @@
 PROGRAM SarahRevere(INPUT, OUTPUT);
 USES DOS;
 BEGIN {SarahRevere}
-  WRITELN('Content-Type:_Text/plain');
+  WRITELN('Content-Type: text/plain');
   WRITELN;
   IF GetEnv('QUERY_STRING') = 'lanterns=1'
   THEN
