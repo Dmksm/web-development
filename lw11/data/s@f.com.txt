@@ -1,0 +1,4 @@
+Name:sdfs
+Email:s@f.com
+Activity:Деятельность не выбрана
+Agreement:Согласия на рассылку нет

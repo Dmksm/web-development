@@ -1,0 +1,4 @@
+Name:max
+Email:max@max.ru
+Activity:Маркетолог
+Agreement:Согласие на рассылку есть

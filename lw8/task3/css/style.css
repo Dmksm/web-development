@@ -1,0 +1,48 @@
+.body
+{
+    margin: 0;
+    max-width: 1920px;
+}
+
+.form
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 52px 53px 0 59px;
+    max-width: 1013px;
+    background: #FFF;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.form::placeholder
+{
+    font: 500 18px 'Montserrat';
+    max-width: 55px;
+    line-height: 22px;
+    text-align: center;
+    color: #999;
+}
+
+.form__text-place
+{
+    padding: 21px 230px 21px 28px;
+    max-width: 480px;
+    font: 500 18px 'Montserrat';
+    line-height: 22px;
+    background: #FFF;
+    border-radius: 6px;
+    border: 1px solid #C0C0C0;
+}
+
+.form__button
+{
+    font: 500 18px 'Montserrat';
+    border-radius: 5px;
+    max-width: 480px;
+    padding: 21px 150px;
+    background-color: #000;
+    color: #FFF;
+    border: none;
+}

@@ -1,0 +1,4 @@
+Name:max
+Email:max12@g.com
+Activity:Деятельность
+Agreement:
